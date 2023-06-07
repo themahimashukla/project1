@@ -115,7 +115,7 @@ print(x + y)  # Output: 1/2
 print(x-y)
 print(x*y)
 print(x/y)
-
+print(type(x))
 
 # l = [1, 2, x]
 # print(l)
