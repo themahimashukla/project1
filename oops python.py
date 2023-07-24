@@ -163,3 +163,10 @@ for student in Student.students:
     student.display()
     print()
 
+# def add_to_cart(self):
+    #     count = 0
+    #     num = int(input("Enter number of elements to add in cart:"))
+    #     for i in range(num):
+    #         product = input("Enter the product to add in cart:")
+    #         count += self.list.count(product)  # Use count method to count occurrences
+    #     print(f"...{count} Iteams found in a cart...")
